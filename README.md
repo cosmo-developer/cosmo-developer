@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @cosmo-developer
+- 👋 Hi, I’m Sonu Aryan@cosmo-developer
 - 👀 I’m interested in developing api and software
 - 🌱 I’m currently learning flutter and dart (also advance c++)
 - 📫 How to reach me via email (cosmoorganization@gmail.com,cosmoorganization1o1@gmail.com)
